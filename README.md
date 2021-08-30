@@ -2,10 +2,12 @@
 
 Unless otherwise noted, screenshots listed as Room SID with info (BW, NQ, etc.).
 
-Browser used for testing: `Chrome 92.0.4515`
+Browsers used for testing: 
+- `Chrome 92.0.4515`
+- `Firefox 91.0.2`
 
 
-## Default Setup - RM0841c3a848e44ffdfbe341b6ff943903
+## Default JS Video Quickstart - RM0841c3a848e44ffdfbe341b6ff943903
 
 Basic room
 
