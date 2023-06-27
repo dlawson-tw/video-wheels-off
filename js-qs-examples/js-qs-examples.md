@@ -1,6 +1,8 @@
 # JS Video Quickstart
 
-## Default JS Video Quickstart - RMb8b3b0f301548cb3b8b978caa546cbf5
+## Default JS Video Quickstart - 
+
+Room SID: RMb8b3b0f301548cb3b8b978caa546cbf5
 
 ![](RMb8b3b0f301548cb3b8b978caa546cbf5-qs-20230626-01.png)
 
@@ -360,4 +362,32 @@ Default State
 Errors in console
 
 ![Errors](RM-VTMC-02.png)
+
+### Local Filter
+
+Room SID: none
+
+![Why errors?](RM-local-filter-errors.png)
+
+### Media Device Selection
+
+Room SID: RM823456977e1bf006c03c3c8ab874faae
+
+![Default view](RM823456977e1bf006c03c3c8ab874faae-preview-media-01.png)
+
+![Other participant view](RM823456977e1bf006c03c3c8ab874faae-preview-media-02.jpeg)
+
+### Share Your Screen
+
+![GH Repo share](RM-screen-share.png)
+
+### Reconnection States and Events
+
+![Default](RM-reconnect-states-01.png)
+
+![Connected](RM-reconnect-states-02.png)
+
+![Reconnected](RM-reconnect-states-03.png)
+
+![Disconnected](RM-reconnect-states-04.png)
 
