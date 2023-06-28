@@ -391,3 +391,22 @@ Room SID: RM823456977e1bf006c03c3c8ab874faae
 
 ![Disconnected](RM-reconnect-states-04.png)
 
+### Enabling and Disabling Tracks
+
+![Audio track disabled](RM-track-disable-audio.png)
+
+![Video track disabled](RM-track-disable-video.png)
+
+### DataTracks
+
+![messaging in DataTracks](RM-data-track.png)
+
+### Video Track Automatic Controls
+
+![Default view](RM-VTAC-default.png)
+
+![Hiding video](RM-VTAC-hide.png)
+
+![Resize to 640x480](RM-VTAC-640x480.png)
+
+![Resize to 176x144](RM-VTAC-176x144.png)
